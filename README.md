@@ -10,6 +10,9 @@ It has two usage :
 
 ## usage 
     {value, increment, decrement}= useCounter()
+        increment()= a function to increase the value it does not accept any parameter
+        decrement()= a function to decrease the value it does not accept any parameter
+        value= the current numerical value 
 
 
 
